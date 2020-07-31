@@ -18,33 +18,36 @@
 <translation-config>
 
     <!-- List of codes for the supported locales -->
-    
+
     <localeCodes>
         <localeCode>en</localeCode>
         <localeCode>es</localeCode>
     </localeCodes>
-    
+
 
     <!-- The code of the default locale for all new content -->
-    
+
     <defaultLocaleCode>en</defaultLocaleCode>
-    
+
 
     <!-- Indicates if the default locale should be used when none of the resolvers can find a locale -->
-    
+
     <fallbackToDefaultLocale>false</fallbackToDefaultLocale>
-    
+
 
     <!-- List of locale resolvers -->
-    
+
     <localeResolvers>
-    
+
         <!-- List of locale resolvers, will be executed in the same order until one returns a locale -->
-        
+
+        <localeResolver>
+            <type>cookie</type>
+        </localeResolver>
         <localeResolver>
             <type>groovy</type>
         </localeResolver>
     </localeResolvers>
-    
+
 
 </translation-config>
