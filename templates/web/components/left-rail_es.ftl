@@ -7,14 +7,14 @@
     <!-- Search -->
     <section id="search" class="alt">
       <form method="post" action="#">
-        <input type="text" name="query" id="query" placeholder="Search" />
+        <input type="text" name="query" id="query" placeholder="Buscar" />
       </form>
     </section>
 
     <!-- Menu -->
     <nav id="menu">
       <header class="major">
-        <h2>Menú</h2>
+        <h2>Menu</h2>
       </header>
       <ul>
 		<@nav.renderNavigation "/site/website" 1 true/>
