@@ -20,14 +20,14 @@
     <!-- List of codes for the supported locales -->
     
     <localeCodes>
-        <localeCode>en_us</localeCode>
+        <localeCode>en</localeCode>
         <localeCode>es</localeCode>
     </localeCodes>
     
 
     <!-- The code of the default locale for all new content -->
     
-    <defaultLocaleCode>en_us</defaultLocaleCode>
+    <defaultLocaleCode>en</defaultLocaleCode>
     
 
     <!-- Indicates if the default locale should be used when none of the resolvers can find a locale -->
