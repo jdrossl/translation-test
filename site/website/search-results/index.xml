@@ -40,4 +40,5 @@
 	<include>/site/taxonomy/categories.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></categories_o>
+	<localeCode>en</localeCode>
 </page>

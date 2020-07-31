@@ -47,4 +47,5 @@
 	<featured_b>false</featured_b>
 	<summary_t>Curabitur lobortis laoreet vehicula. Integer condimentum non mauris in bibendum. Morbi et facilisis nisl. In suscipit eros sapien, ut venenatis quam interdum gravida. Praesent ultricies interdum dictum.</summary_t>
 	<image_s>/static-assets/images/book-woman-pic.jpg</image_s>
+	<localeCode>en</localeCode>
 </page>

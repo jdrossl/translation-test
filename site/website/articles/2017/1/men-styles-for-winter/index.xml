@@ -47,4 +47,5 @@
 	<featured_b>true</featured_b>
 	<summary_t>Nulla sed enim ipsum. Sed ac neque a ligula malesuada volutpat. Donec et ligula rutrum, mattis mauris eget, vestibulum metus. Maecenas non vehicula neque. Nunc ac mauris id ipsum commodo tempus. Integer at dolor consequat, dignissim eros in, imperdiet dui.</summary_t>
 	<image_s>/static-assets/images/winter-man-pic.jpg</image_s>
+	<localeCode>en</localeCode>
 </page>

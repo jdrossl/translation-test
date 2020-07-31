@@ -16,25 +16,20 @@
   -->
 
 <component>
-	<content-type>/taxonomy</content-type>	<display-template/>
+	<content-type>/component/articles-widget</content-type>	<display-template>/templates/web/components/articles-widget.ftl</display-template>
 	<merge-strategy>inherit-levels</merge-strategy>
-	<objectGroupId>6497</objectGroupId>
-	<objectId>6497af67-bd6b-b1e2-5b3d-2d2559524fc0</objectId>
-	<items>	<item>	<key>style</key>
-	<value>Style</value>
-	</item>	<item>	<key>health</key>
-	<value>Health</value>
-	</item>	<item>	<key>entertainment</key>
-	<value>Entertainment</value>
-	</item>	<item>	<key>technology</key>
-	<value>Technology</value>
-	</item></items>
-	<file-name>categories.xml</file-name>
+	<objectGroupId>cb76</objectGroupId>
+	<objectId>cb760193-06a0-e1d9-6653-0f0dd1e2650e</objectId>
+	<file-name>latest-articles-widget.xml</file-name>
 	<folder-name/>
-	<internal-name>Categories</internal-name>
-	<createdDate>2017-5-12T4:56:54.000Z</createdDate>
-	<createdDate_dt>2017-5-12T4:56:54.000Z</createdDate_dt>
-	<lastModifiedDate>2017-5-12T4:56:54.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-5-12T4:56:54.000Z</lastModifiedDate_dt>
-	<localeCode>en</localeCode>
+	<internal-name>Latest Articles Widget</internal-name>
+	<title_t>Artículos Recientes</title_t>
+	<max_articles_i>3</max_articles_i>
+	<scripts_o>	<item>	<key>/scripts/components/latest-articles.groovy</key>
+	<value>latest-articles.groovy</value>
+	</item></scripts_o>
+	<createdDate>2017-3-28T22:27:45.000Z</createdDate>
+	<createdDate_dt>2017-3-28T22:27:45.000Z</createdDate_dt>
+	<lastModifiedDate>2017-3-28T22:27:45.000Z</lastModifiedDate>
+	<lastModifiedDate_dt>2017-3-28T22:27:45.000Z</lastModifiedDate_dt>
 </component>

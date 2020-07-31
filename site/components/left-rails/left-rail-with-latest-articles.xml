@@ -36,4 +36,5 @@
 	<include>/site/components/contacts/contact-widget.xml</include>
 	<disableFlattening>false</disableFlattening>
 	</item></widgets_o>
+	<localeCode>en</localeCode>
 </component>
