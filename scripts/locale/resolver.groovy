@@ -1,1 +1,1 @@
-return new Locale('es')
+return new Locale('es', 'cr')
