@@ -32,7 +32,7 @@
 
     <!-- Indicates if the default locale should be used when none of the resolvers can find a locale -->
     
-    <fallbackToDefaultLocale>true</fallbackToDefaultLocale>
+    <fallbackToDefaultLocale>false</fallbackToDefaultLocale>
     
 
     <!-- List of locale resolvers -->
