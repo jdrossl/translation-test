@@ -72,7 +72,7 @@
 											<h3><a href="${article.url}">${article.title}</a></h3>
 											<p>${article.summary}</p>
 											<ul class="actions">
-												<li><a href="${article.url}" class="button">More</a></li>
+												<li><a href="${article.url}" class="button">Leer más</a></li>
 											</ul>
 										</article>
 										</#list>

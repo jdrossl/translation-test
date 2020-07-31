@@ -14,7 +14,7 @@
     <!-- Menu -->
     <nav id="menu">
       <header class="major">
-        <h2>Menu</h2>
+        <h2>Menú</h2>
       </header>
       <ul>
 		<@nav.renderNavigation "/site/website" 1 true/>
