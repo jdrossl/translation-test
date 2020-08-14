@@ -42,10 +42,7 @@
         <!-- List of locale resolvers, will be executed in the same order until one returns a locale -->
 
         <localeResolver>
-            <type>cookie</type>
-        </localeResolver>
-        <localeResolver>
-            <type>groovy</type>
+            <type>principal</type>
         </localeResolver>
     </localeResolvers>
 
