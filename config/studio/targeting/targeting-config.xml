@@ -63,4 +63,17 @@
         <default_value></default_value>
         <hint>Enter user's first and last name.</hint>
    </property>
+   
+   <property>
+        <name>preferredLanguage</name>
+        <label>Language</label>
+        <description>User's language.</description>
+        <type>dropdown</type> <!-- valid types: dropdown, checkboxes, input -->
+        <possible_values>
+            <value>en</value>
+            <value>es</value>
+        </possible_values>
+        <default_value></default_value>
+        <hint>Select the user's language.</hint>
+   </property>
 </targeting>
